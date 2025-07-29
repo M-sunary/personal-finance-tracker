@@ -1,0 +1,7 @@
+{
+  "name": "personal-finance-tracker",
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "installCommand": "npm install",
+  "devCommand": "npm start"
+}
